@@ -42,3 +42,5 @@ https://github.com/CasperDash/casperdash-client/tree/v1.0.0 | 3377681
 https://github.com/CasperDash/casperdash-api | 08fa0a6
 
 # Install & Usage Testing Procedure and Findings
+
+Pages on the website are working properly :
