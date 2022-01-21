@@ -16,9 +16,9 @@ Reviewer | Ekin Keçeci <ekin@ekonteknoloji.com>
 - Keys Manager (Deploy keys manager contract , Edit account weight , Edit Deployment/ Key management threshold , Add new associated key , Edit associated account weight)
 - Stacking (Stacking CSPR)
 - Account Management 
-   -Create/update/manage public/private keys
-   -Import/backup account from private key file or mnemonic words
-   -Provide method to sign contract from external site
+  -Create/update/manage public/private keys
+  -Import/backup account from private key file or mnemonic words
+  -Provide method to sign contract from external site
 
 
 **Additional notes regarding submission from OP:**
