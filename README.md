@@ -50,9 +50,9 @@ The code was very well laid out and pretty printed for easy reading. Things were
 Requirement | Part | Finding
 ------------ | ------------- | -----------
 
-                                   View CSPR balance | Dashboard | PASS
-                                   Send/Receive CRPR | Dashboard | PASS
-                                   CRPS price chart | Dashboard | PASS
+                                   Control to View CSPR balance | Dashboard | PASS
+                                   Control to Send/Receive CRPR | Dashboard | PASS
+                                   Control to CRPS price chart  | Dashboard | PASS
   
 
 # Documentation
