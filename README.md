@@ -44,3 +44,9 @@ https://github.com/CasperDash/casperdash-api | 08fa0a6
 # Install & Usage Testing Procedure and Findings
 
 Pages on the website are working properly :
+
+## Overall Impression of usage testing
+
+The reviewer was unable to build and run the project following the instructions provided due to a target error in the lib file.
+But apart from this error the documentation also provides adequate installation/execution instructions for different scenarios.
+The reviewer thinks that the project functionality will meet the acceptance criteria once the bugs are fixed.
