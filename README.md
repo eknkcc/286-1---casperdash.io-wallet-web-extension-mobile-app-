@@ -54,11 +54,11 @@ Requirement | Part | Finding
                                    Control to Send/Receive CRPR | Dashboard | PASS
                                    Control to CRPS price chart  | Dashboard | PASS
                                    
-                                   Control to View token info/balance            | Token | PASS
-                                   Control to Send/Receive tokens                | Token | PASS
-                                   Control to Add custom token by contract hash  | Token | PASS
+                                   Control to View token info/balance | Token | PASS
+                                   Control to Send/Receive tokens | Token | PASS
+                                   Control to Add custom token by contract hash | Token | PASS
                                    
-                                   Control to View transfer transactions history |  History  | PASS
+                                   Control to View transfer transactions history | History | PASS
                                 
   
 
