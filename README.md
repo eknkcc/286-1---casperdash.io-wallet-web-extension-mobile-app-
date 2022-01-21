@@ -27,10 +27,6 @@ Reviewer | Ekin Keçeci <ekin@ekonteknoloji.com>
   - Add new associated key
   - Edit associated account weight
 - Control of Stacking (Stacking CSPR)  
-- Control of Account Management 
-  - Create/update/manage public/private keys
-  - Import/backup account from private key file or mnemonic words
-  - Provide method to sign contract from external site
    
 **Acceptance criteria:**
 
