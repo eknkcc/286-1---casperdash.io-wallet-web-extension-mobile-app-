@@ -9,20 +9,12 @@ Reviewer | Ekin Keçeci <ekin@ekonteknoloji.com>
 
 **Details of what will be delivered in milestone:**
 
-- Installation of Casper Analytics web and api project with Readme file.
-- Control of web pages.
-- Control of mobile application.
-- Project's casper signer connection control.
+- Integration with Casper Singer
+- Control of Dashboard(View CSPR balance , Send/Receive CRPR , CRPS price chart) .
+- Tokens (ERC20) (View token info/balance , Send/Receive tokens , Add custom token by contract hash)
+- History (View transfer transactions history)
+- Keys Manager (Deploy keys manager contract , Edit account weight , Edit Deployment/ Key management threshold , Add new associated key)
 
-**Acceptance criteria:**
-
-- Link to the repository of the API 
-- Link to the repository of the Webapp 
-- Webpp published on a specific website (the name of the website have to be defined) with pages
-- App available on the PlayStore
-- App available on the AppStore
-- Create an alert via your smartphone or via a compatible browser.
-- Make a delegation using the casper signer
 
 **Additional notes regarding submission from OP:**
 
