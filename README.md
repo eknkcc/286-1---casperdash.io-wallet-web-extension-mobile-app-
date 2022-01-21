@@ -50,3 +50,9 @@ Pages on the website are working properly :
 The reviewer was unable to build and run the project following the instructions provided due to a target error in the lib file.
 But apart from this error the documentation also provides adequate installation/execution instructions for different scenarios.
 The reviewer thinks that the project functionality will meet the acceptance criteria once the bugs are fixed.
+
+Requirement | Finding
+------------ | -------------
+Project builds without errors | FAIL
+Documentation provides sufficient installation/execution instructions | PASS
+Project functionality meets/exceeds acceptance criteria and operates without error | FAIL
