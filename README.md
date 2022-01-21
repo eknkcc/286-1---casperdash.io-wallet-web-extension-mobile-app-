@@ -27,3 +27,11 @@ Reviewer | Ekin Keçeci <ekin@ekonteknoloji.com>
 **Additional notes regarding submission from OP:**
 
 
+## Milestone Submission
+
+The following milestone assets/artifacts were submitted for review:
+
+Repository | Revision Reviewed
+------------ | -------------
+https://github.com/caspercommunityio/casper-analytics-api | 3377681
+https://github.com/caspercommunityio/casper-analytics-app | 08fa0a6
