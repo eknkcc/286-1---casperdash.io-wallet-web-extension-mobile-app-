@@ -54,17 +54,8 @@ Requirement | Part | Finding
                                    Control to Send/Receive CRPR | Dashboard | PASS
                                    Control to CRPS price chart  | Dashboard | PASS
                                    
-                                   Control to View CSPR balance | Dashboard | PASS
-                                   Control to Send/Receive CRPR | Dashboard | PASS
-                                   Control to CRPS price chart  | Dashboard | PASS
-                                   
-                                   Control to View CSPR balance | Dashboard | PASS
-                                   Control to Send/Receive CRPR | Dashboard | PASS
-                                   Control to CRPS price chart  | Dashboard | PASS
-                                   
-                                   Control to View CSPR balance | Dashboard | PASS
-                                   Control to Send/Receive CRPR | Dashboard | PASS
-                                   Control to CRPS price chart  | Dashboard | PASS
+                                   Control to View transfer transactions history |  History  | PASS
+                                
   
 
 # Documentation
