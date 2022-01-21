@@ -59,3 +59,60 @@ Requirement | Finding
              Documentation provides sufficient installation/execution instructions | PASS
 Project functionality meets/exceeds acceptance criteria and operates without error | PASS
                                                       Can connect to a Casper node | PASS
+
+# Documentation
+
+### Code Documentation
+
+Reviewer observed that all critical functions of the project had low-level code documentation which could be used for automated documentation generation.
+
+Requirement | Finding
+------------ | -------------
+Code Documented | PASS
+
+### Project Documentation
+
+The reviewer observed that the README of the project has detailed general and usage documentation.
+
+Requirement | Finding
+------------ | -------------
+Usage Documented | PASS
+
+## Overall Conclusion on Documentation
+
+The reviewer concludes that the project has sufficient comprehensive general documentation. 
+
+# Open Source Practices
+
+## Licenses
+
+The Project is released under the MIT License
+
+Requirement | Finding
+------------ | -------------
+OSI-approved open source software license | PASS
+
+## Contribution Policies
+
+Pull requests and Issues are enabled. And, the project contain a CONTRIBUTING policy. 
+
+Requirement | Finding
+------------ | -------------
+OSS contribution best practices | PASS
+
+# Coding Standards
+
+## General Observations
+
+Code is generally well-structured and readable. The Github linked project is easy and successful to install, but an error was encountered during the installation phase of the app project. An error was received in the unit tests of the project. Manual tests fail for making a delegation using the casper signer. These errors prevent the project from succeeding.
+
+# Final Conclusion
+The project provides the most of the functionalities described in the grant application and milestone acceptance criteria. 
+The reviewer praises the OP for the general stability and the fluid user experience of the app.
+However, it is recommended to fix test errors in the lib file. Also the "delegate using casper signer" in the milestone doesn't work properly. 
+Thus, in the reviewer's opinion, this submission should fail.
+
+# Recommendation
+
+Recommendation | FAIL
+------------ | -------------
