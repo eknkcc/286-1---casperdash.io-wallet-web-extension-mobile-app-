@@ -32,8 +32,9 @@ Reviewer | Ekin Keçeci <ekin@ekonteknoloji.com>
   - Import/backup account from private key file or mnemonic words
   - Provide method to sign contract from external site
    
-**Additional notes regarding submission from OP:**
+**Acceptance criteria:**
 
+- Link to the repository of the API 
 
 ## Milestone Submission
 
