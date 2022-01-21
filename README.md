@@ -9,18 +9,25 @@ Reviewer | Ekin Keçeci <ekin@ekonteknoloji.com>
 
 **Details of what will be delivered in milestone:**
 
-- Integration with Casper Singer
-- Control of Dashboard(View CSPR balance , Send/Receive CRPR , CRPS price chart) .
-- Tokens (ERC20) (View token info/balance , Send/Receive tokens , Add custom token by contract hash)
-- History (View transfer transactions history)
-- Keys Manager
+- Control of Integration with Casper Singer
+- Control of Dashboard
+  - View CSPR balance
+  - Send/Receive CRPR
+  - CRPS price chart
+- Control of Tokens
+  - View token info/balance
+  - Send/Receive tokens
+  - Add custom token by contract hash
+- Control of History
+  - View transfer transactions history
+- Control of Keys Manager
   - Deploy keys manager contract
   - Edit account weight
   - Edit Deployment/ Key management threshold
   - Add new associated key
   - Edit associated account weight
-- Control Stacking (Stacking CSPR)  
-- Control Account Management 
+- Control of Stacking (Stacking CSPR)  
+- Control of Account Management 
   - Create/update/manage public/private keys
   - Import/backup account from private key file or mnemonic words
   - Provide method to sign contract from external site
@@ -34,5 +41,5 @@ The following milestone assets/artifacts were submitted for review:
 
 Repository | Revision Reviewed
 ------------ | -------------
-https://github.com/caspercommunityio/casper-analytics-api | 3377681
-https://github.com/caspercommunityio/casper-analytics-app | 08fa0a6
+https://github.com/CasperDash/casperdash-client/tree/v1.0.0 | 3377681
+https://github.com/CasperDash/casperdash-api | 08fa0a6
