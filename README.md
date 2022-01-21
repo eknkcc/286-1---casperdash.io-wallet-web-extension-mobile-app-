@@ -34,7 +34,7 @@ Reviewer | Ekin Keçeci <ekin@ekonteknoloji.com>
    
 **Acceptance criteria:**
 
-- Link to the repository of the API 
+- Release a stable version working on mainnet with feature 
 
 ## Milestone Submission
 
