@@ -43,6 +43,9 @@ https://github.com/CasperDash/casperdash-client/tree/v1.0.0 | ade2cbf
 # Install & Usage Testing Procedure and Findings
 Following the instructions in the README of https://github.com/CasperDash/casperdash-client/tree/v1.0.0 and https://github.com/CasperDash/casperdash-api, the reviewer was able to successfully install the library. The reviewer was also able to successfully build the source code for this milestone by using the build script furnished in the root and readme of the repository.
 
+![img.png](casperdashimg.png)
+
+
 ## Overall Impression of usage testing
 
 The code was very well laid out and pretty printed for easy reading. Things were aligned nicely and it was easy to understand what was happening in the libraries as everything was also named very appropriately. Project successfully compiled and run.
