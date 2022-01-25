@@ -49,19 +49,22 @@ The code was very well laid out and pretty printed for easy reading. Things were
 
 Requirement | Part | Finding
 ------------ | ------------- | -----------
-
+                                  
+                                   Casper signer integration test | PASS
+                                   
                                    Control to View CSPR balance | Dashboard | PASS
                                    Control to Send/Receive CRPR | Dashboard | PASS
                                    Control to CRPS price chart  | Dashboard | PASS
+                                   
+                                   Control to Stacking Operations | Staking |PASS
+                                   
+                                   Control to View transfer transactions history | History | PASS
                                    
                                    Control to View token info/balance | Token | PASS
                                    Control to Send/Receive tokens | Token | PASS
                                    Control to Add custom token by contract hash | Token | PASS
                                    
-                                   Control to View transfer transactions history | History | PASS
-                                
-  
-
+                                   
 # Documentation
 
 ### Code Documentation
