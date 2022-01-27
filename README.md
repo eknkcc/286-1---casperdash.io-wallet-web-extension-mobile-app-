@@ -109,14 +109,10 @@ OSS contribution best practices | PASS
 
 ## General Observations
 
-Code is generally well-structured and readable. The Github linked project is easy and successful to install, but an error was encountered during the installation phase of the app project. An error was received in the unit tests of the project. Manual tests fail for making a delegation using the casper signer. These errors prevent the project from succeeding.
+The coding is well structured and readable. Github site setup is easy and successful.
 
 # Final Conclusion
-The project provides the most of the functionalities described in the grant application and milestone acceptance criteria. 
-The reviewer praises the OP for the general stability and the fluid user experience of the app.
-However, it is recommended to fix test errors in the lib file. Also the "delegate using casper signer" in the milestone doesn't work properly. 
-Thus, in the reviewer's opinion, this submission should fail.
-
+Overall, the project was well prepared. The documentation and the process are well explained and the project can be started easily. however, there were difficulties as the milestones were not clearly explained. The reviewer may find it difficult to understand. More details are suggested.
 # Recommendation
 
 Recommendation | FAIL
