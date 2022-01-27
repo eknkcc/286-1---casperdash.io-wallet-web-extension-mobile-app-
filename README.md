@@ -21,7 +21,6 @@ Reviewer | Ekin Keçeci <ekin@ekonteknoloji.com>
 - Control of History
   - View transfer transactions history
 - Control of Stacking  
-  - Edit associated account weight
 - Control of NFT 
    
 **Acceptance criteria:**
