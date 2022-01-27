@@ -20,13 +20,9 @@ Reviewer | Ekin Keçeci <ekin@ekonteknoloji.com>
   - Add custom token by contract hash
 - Control of History
   - View transfer transactions history
-- Control of Keys Manager
-  - Deploy keys manager contract
-  - Edit account weight
-  - Edit Deployment/ Key management threshold
-  - Add new associated key
+- Control of Stacking  
   - Edit associated account weight
-- Control of Stacking (Stacking CSPR)  
+- Control of NFT 
    
 **Acceptance criteria:**
 
@@ -66,6 +62,8 @@ Requirement | Part | Finding
                                    Control to View token info/balance | Token | PASS
                                    Control to Send/Receive tokens | Token | PASS
                                    Control to Add custom token by contract hash | Token | PASS
+                                   
+                                   Control to View NFTs | NFT | PASS
                                    
                                    
 # Documentation
