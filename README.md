@@ -39,9 +39,10 @@ https://github.com/CasperDash/casperdash-client/tree/v1.0.0 | ade2cbf
 Following the instructions in the README of https://github.com/CasperDash/casperdash-client/tree/v1.0.0 and https://github.com/CasperDash/casperdash-api, the reviewer was able to successfully install the library. The reviewer was also able to successfully build the source code for this milestone by using the build script furnished in the root and readme of the repository.
 
 
--Pages on the website are working properly.
--Dashboard , History , Stacking , NFT and Token Pages :
+**Acceptance criteria:**
 
+- Pages on the website are working properly.
+- -Dashboard , History , Stacking , NFT and Token Pages :
 ![img.png](casperdashimg.png)
 ![img.png](tokenNft.png)
 
