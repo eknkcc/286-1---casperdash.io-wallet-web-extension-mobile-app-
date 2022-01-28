@@ -79,12 +79,13 @@ Code Documented | PASS
 
 ### Project Documentation
 
-The reviewer observed that the README of the project has detailed general and usage documentation. The reviewer , full versions of the installations are specified properly, after the necessary installations are made in the required version, it can make the project work.
-
+The reviewer observed that the README of the project has detailed general and usage documentation. 
+Observes that the project does not have a good level of project documentation, but it is sufficient for the installation and launch of the project.
+All versions of the installations are specified properly, after the necessary installations are made in the required version, it can make the project work.
 
 Requirement | Finding
 ------------ | -------------
-Usage Documented | PASS
+Usage Documented | PASS with note
 
 ## Overall Conclusion on Documentation
 
