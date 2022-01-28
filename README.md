@@ -50,7 +50,7 @@ Pages (Dashboard , History , Stacking , NFT and Token) on the website are workin
 
 The code was well crafted and well-printed for easy reading.
 Everything was nicely aligned and it was easy to understand what was going on in the libraries as everything was so aptly named.
-The project was successfully compiled and run, but the code documentation was not visible, so it was difficult.
+The project was successfully compiled and run, There was a difficulty because the code documentation was not prepared well.
 
 Requirement | Finding
 ------------ | -------------
@@ -72,12 +72,11 @@ Control to Stacking Operations | Staking |PASS
 # Documentation
 
 ### Code Documentation
-
-The reviewer observed that not all critical functions of the project have code documentation that can be used for automated documentation generation.
+The reviewer says that all critical functions of the project have code documents that can be used for automated document generation ,but that a little more information should be given so that the reviewer is not challenged.
 
 Requirement | Finding
 ------------ | -------------
-Code Documented | FAIL
+Code Documented | Pass with Notes
 
 ### Project Documentation
 
@@ -92,8 +91,9 @@ Usage Documented | PASS with Notes
 ## Overall Conclusion on Documentation
 
 The reviewer concludes that the project does not have sufficient documentation.
-The documentation provided is only sufficient to run the project.
-Code documentation is extremely lacking. The observer has difficulty understanding the codes.
+The documents provided are only sufficient to run the project.
+Code documentation is not good.
+The reviewer has difficulty understanding the codes.
 
 # Open Source Practices
 
@@ -120,10 +120,12 @@ OSS contribution best practices | FAIL
 The coding is well structured and readable. Github site setup is easy and successful.
 
 # Final Conclusion
-Web pages and operations work perfectly.
+Web pages and processes work flawlessly.
 The code and project documentation and process are not well explained.
-There were difficulties as the milestones were not clearly explained. The viewer may find it difficult to understand. More details are recommended.
+Difficulties arose as the milestones were not clearly explained. The audience may find it difficult to understand and more details are recommended.
+The Contribution Policies file could not be found in the project so must be added.
+
 # Recommendation
 
-Recommendation | FAIL
+Recommendation | PASS with Notes
 ------------ | -------------
