@@ -104,7 +104,7 @@ OSI-approved open source software license | PASS
 
 ## Contribution Policies
 
-File not found. The project does not contain a CONTRIBUTED policy.
+File not found. The project does not contain a CONTRIBUTION policy.
 
 Requirement | Finding
 ------------ | -------------
