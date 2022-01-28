@@ -89,7 +89,10 @@ Usage Documented | PASS with Notes
 
 ## Overall Conclusion on Documentation
 
-The reviewer concludes that the project has sufficient comprehensive general documentation. 
+The reviewer concludes that the project does not have sufficient documentation.
+The documentation provided is only sufficient to run the project.
+Code documentation is extremely lacking. The observer has difficulty understanding the codes.
+
 # Open Source Practices
 
 ## Licenses
@@ -115,7 +118,9 @@ OSS contribution best practices | FAIL
 The coding is well structured and readable. Github site setup is easy and successful.
 
 # Final Conclusion
-Overall, the project was well prepared. The documentation and the process are well explained and the project can be started easily. however, there were difficulties as the milestones were not clearly explained. The reviewer may find it difficult to understand. More details are suggested.
+Web pages and operations work perfectly.
+The code and project documentation and process are not well explained.
+There were difficulties as the milestones were not clearly explained. The viewer may find it difficult to understand. More details are recommended.
 # Recommendation
 
 Recommendation | FAIL
