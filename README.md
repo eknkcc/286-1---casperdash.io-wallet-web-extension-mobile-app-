@@ -55,28 +55,17 @@ Requirement | Finding
 Casper signer integration test | PASS
 
 Requirement | Part | Finding
------------- | -------------- |------------
-Control to Stacking Operations | Staking |PASS
-
-Requirement | Part | Finding
------------- | ------------- |------------
-Control to View transfer transactions history | History | PASS
- 
-Requirement | Part | Finding
 ------------ | ------------- | ------------
 Control to View CSPR balance | Dashboard | PASS
 Control to Send/Receive CRPR | Dashboard | PASS
 Control to CRPS price chart  | Dashboard | PASS
-
-Requirement | Part | Finding
------------- | ------------- | ------------
 Control to View token info/balance | Token | PASS
 Control to Send/Receive tokens | Token | PASS
 Control to Add custom token by contract hash | Token | PASS
+Control to View NFTs | NFT | PASS
+Control to View transfer transactions history | History | PASS
+Control to Stacking Operations | Staking |PASS
 
-Requirement | Part | Finding
------------- | ------------- |------------
- Control to View NFTs | NFT | PASS
 
 # Documentation
 
