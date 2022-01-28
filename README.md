@@ -1,9 +1,9 @@
 
-Grant Proposal | [28 - Validator Information Standard](https://portal.devxdao.com/public-proposals/28)
+Grant Proposal | [286 - casperdash.io wallet ( web, extension, mobile app )](https://portal.devxdao.com/public-proposals/286)
 ------------ | -------------
-Milestone | 2
-Milestone Title | Web Wallet
-OP | Michael Steuer <michael@make.software>
+Milestone | 1
+Milestone Title | Web wallet - Submission 1
+OP | Kien Nguyen
 Reviewer | Ekin Keçeci <ekin@ekonteknoloji.com>
 # Milestone Details
 
