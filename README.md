@@ -50,26 +50,34 @@ Pages (Dashboard , History , Stacking , NFT and Token) on the website are workin
 
 The code was very well laid out and pretty printed for easy reading. Things were aligned nicely and it was easy to understand what was happening in the libraries as everything was also named very appropriately. Project successfully compiled and run.
 
+Requirement | Finding
+------------ | -------------
+Casper signer integration test | PASS
+
+Requirement | Finding
+------------ | -------------
+Control to Stacking Operations | Staking |PASS
+
+Requirement | Finding
+------------ | -------------
+Control to View transfer transactions history | History | PASS
+ 
 Requirement | Part | Finding
------------- | ------------- | -----------
-                                  
-                                   Casper signer integration test | PASS
-                                   
-                                   Control to View CSPR balance | Dashboard | PASS
-                                   Control to Send/Receive CRPR | Dashboard | PASS
-                                   Control to CRPS price chart  | Dashboard | PASS
-                                   
-                                   Control to Stacking Operations | Staking |PASS
-                                   
-                                   Control to View transfer transactions history | History | PASS
-                                   
-                                   Control to View token info/balance | Token | PASS
-                                   Control to Send/Receive tokens | Token | PASS
-                                   Control to Add custom token by contract hash | Token | PASS
-                                   
-                                   Control to View NFTs | NFT | PASS
-                                   
-                                   
+------------ | -------------
+Control to View CSPR balance | Dashboard | PASS
+Control to Send/Receive CRPR | Dashboard | PASS
+Control to CRPS price chart  | Dashboard | PASS
+
+Requirement | Part | Finding
+------------ | -------------
+Control to View token info/balance | Token | PASS
+Control to Send/Receive tokens | Token | PASS
+Control to Add custom token by contract hash | Token | PASS
+
+Requirement | Part | Finding
+------------ | -------------
+ Control to View NFTs | NFT | PASS
+
 # Documentation
 
 ### Code Documentation
@@ -82,7 +90,8 @@ Code Documented | PASS
 
 ### Project Documentation
 
-The reviewer observed that the README of the project has detailed general and usage documentation.
+The reviewer observed that the README of the project has detailed general and usage documentation. The reviewer , full versions of the installations are specified properly, after the necessary installations are made in the required version, it can make the project work.
+
 
 Requirement | Finding
 ------------ | -------------
@@ -90,8 +99,7 @@ Usage Documented | PASS
 
 ## Overall Conclusion on Documentation
 
-The reviewer concludes that the project has sufficient comprehensive general documentation. The reviewer can run the project by following the instructions in the read me file in order. Installations complete versions are neatly specified.
-
+The reviewer concludes that the project has sufficient comprehensive general documentation. 
 # Open Source Practices
 
 ## Licenses
