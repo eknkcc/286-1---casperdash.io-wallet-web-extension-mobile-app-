@@ -90,7 +90,7 @@ Usage Documented | PASS
 
 ## Overall Conclusion on Documentation
 
-The reviewer concludes that the project has sufficient comprehensive general documentation. 
+The reviewer concludes that the project has sufficient comprehensive general documentation. The reviewer can run the project by following the instructions in the read me file in order. Installations complete versions are neatly specified.
 
 # Open Source Practices
 
