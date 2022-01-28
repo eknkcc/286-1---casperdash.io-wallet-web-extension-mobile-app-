@@ -1,8 +1,10 @@
-Grant Proposal | 286-1---casperdash.io-wallet-web-extension-mobile-app
------------- | -------------
-Milestone Title | Web Wallet
-Reviewer | Ekin Keçeci <ekin@ekonteknoloji.com>
 
+Grant Proposal | [28 - Validator Information Standard](https://portal.devxdao.com/public-proposals/28)
+------------ | -------------
+Milestone | 2
+Milestone Title | Web Wallet
+OP | Michael Steuer <michael@make.software>
+Reviewer | Ekin Keçeci <ekin@ekonteknoloji.com>
 # Milestone Details
 
 ## Details & Acceptance Criteria
@@ -102,11 +104,11 @@ OSI-approved open source software license | PASS
 
 ## Contribution Policies
 
-Pull requests and Issues are enabled. And, the project contain a CONTRIBUTING policy. 
+File not found. The project does not contain a CONTRIBUTED policy.
 
 Requirement | Finding
 ------------ | -------------
-OSS contribution best practices | PASS
+OSS contribution best practices | FAIL
 
 # Coding Standards
 
@@ -118,5 +120,5 @@ The coding is well structured and readable. Github site setup is easy and succes
 Overall, the project was well prepared. The documentation and the process are well explained and the project can be started easily. however, there were difficulties as the milestones were not clearly explained. The reviewer may find it difficult to understand. More details are suggested.
 # Recommendation
 
-Recommendation | FAIL
+Recommendation | PASS
 ------------ | -------------
