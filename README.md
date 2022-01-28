@@ -120,5 +120,5 @@ The coding is well structured and readable. Github site setup is easy and succes
 Overall, the project was well prepared. The documentation and the process are well explained and the project can be started easily. however, there were difficulties as the milestones were not clearly explained. The reviewer may find it difficult to understand. More details are suggested.
 # Recommendation
 
-Recommendation | PASS
+Recommendation | PASS with note
 ------------ | -------------
