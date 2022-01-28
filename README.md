@@ -85,7 +85,7 @@ All versions of the installations are specified properly, after the necessary in
 
 Requirement | Finding
 ------------ | -------------
-Usage Documented | PASS with note
+Usage Documented | PASS with Notes
 
 ## Overall Conclusion on Documentation
 
