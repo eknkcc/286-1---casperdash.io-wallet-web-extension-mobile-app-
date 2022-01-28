@@ -48,7 +48,9 @@ Pages (Dashboard , History , Stacking , NFT and Token) on the website are workin
 
 ## Overall Impression of usage testing
 
-The code was very well laid out and pretty printed for easy reading. Things were aligned nicely and it was easy to understand what was happening in the libraries as everything was also named very appropriately. Project successfully compiled and run.
+The code was well crafted and well-printed for easy reading.
+Everything was nicely aligned and it was easy to understand what was going on in the libraries as everything was so aptly named.
+The project was successfully compiled and run, but the code documentation was not visible, so it was difficult.
 
 Requirement | Finding
 ------------ | -------------
